@@ -12,6 +12,7 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 1. Sebastian Lague
 2. SmarterEveryDay
 3. People Make Games
+4. Космос Просто
 
 ## Websites
 1. projecteuler.net
