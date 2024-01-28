@@ -23,8 +23,7 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 4. Antichamber
 
 ## Movies
-1. Tenet
-2. Dunkirk
+1. Oppenheimer, Dunkirk, Tenet
 3. Man from Planet Earth
 4. Spider-Man: Into the Spider-Verse
 5. The Secret Life of Walter Mitty
