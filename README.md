@@ -1,5 +1,5 @@
 # Intro
-This file contains recommendations from Nikita Babich (aka Kongo Landwalker).
+This file contains with no order recommendations from Nikita Babich (aka Kongo Landwalker).
 
 ## Books
 1. Gödel, Escher, Bach
@@ -41,4 +41,5 @@ This file contains recommendations from Nikita Babich (aka Kongo Landwalker).
 5. Legion
 6. Loki, Wandavision, Ms Marvel
 7. Good omens
+8. Stranger Things
 
