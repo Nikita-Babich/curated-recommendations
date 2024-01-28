@@ -1,5 +1,5 @@
 # Intro
-This file contains with no order recommendations from Nikita Babich (aka Kongo Landwalker).
+This file contains with no order recommendations from Nikita Babich (aka Kongo Landwalker). The list does not represent the full range of my interests.
 
 ## Books
 1. Gödel, Escher, Bach
@@ -11,6 +11,7 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 ## Youtube channels
 1. Sebastian Lague
 2. SmarterEveryDay
+3. People Make Games
 
 ## Websites
 1. projecteuler.net
