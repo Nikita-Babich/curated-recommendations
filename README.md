@@ -25,13 +25,12 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 4. Antichamber
 
 ## Movies
-1. Oppenheimer, Dunkirk, Tenet
+1. Oppenheimer + Dunkirk + Tenet
 3. Man from Planet Earth
 4. Spider-Man: Into the Spider-Verse
-5. The Secret Life of Walter Mitty
-6. Tag
+5. Brad's Status + The Secret Life of Walter Mitty
+6. Tag + 100Things
 7. Hot Fuzz
-8. Brad's Status
 9. Hacksaw Ridge
 
 ## Series
@@ -40,7 +39,7 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 3. Attack on Titan
 4. Ragnarök
 5. Legion
-6. Loki, Wandavision, Ms Marvel
+6. Loki + Wandavision + Ms Marvel
 7. Good omens
 8. Stranger Things
 
