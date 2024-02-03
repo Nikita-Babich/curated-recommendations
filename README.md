@@ -14,6 +14,7 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 2. SmarterEveryDay
 3. People Make Games
 4. Космос Просто
+5. Corridor crew
 
 ## Websites
 1. projecteuler.net
