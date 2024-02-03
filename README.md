@@ -31,7 +31,8 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 4. Spider-Man: Into the Spider-Verse
 5. Brad's Status + The Secret Life of Walter Mitty
 6. Tag + 100Things
-7. Hot Fuzz
+7. Hot Fuzz + The World's End
+8. Megamind
 
 ## Series
 1. Sherlock BBC
