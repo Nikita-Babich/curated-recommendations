@@ -4,9 +4,10 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 ## Books
 1. Gödel, Escher, Bach
 2. The Selfish Gene
-3. Thraun trilogy
+3. Thrawn trilogy
 4. Harry Potter and methods of rationality
 5. Foundation
+6. Klein Zaches, genannt Zinnober
 
 ## Youtube channels
 1. Sebastian Lague
@@ -31,7 +32,6 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 5. Brad's Status + The Secret Life of Walter Mitty
 6. Tag + 100Things
 7. Hot Fuzz
-9. Hacksaw Ridge
 
 ## Series
 1. Sherlock BBC
