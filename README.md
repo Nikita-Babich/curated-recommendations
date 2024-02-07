@@ -33,7 +33,6 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 5. Brad's Status + The Secret Life of Walter Mitty
 6. Tag + 100Things
 7. Hot Fuzz + The World's End
-8. Megamind
 9. Puss in boots: The last wish
 
 ## Series
