@@ -47,5 +47,6 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 8. Stranger Things
 9. The good place
 
-## Musical genres
-1. Electro Swing
+## Music
+1. Jules Gaia
+2. 
