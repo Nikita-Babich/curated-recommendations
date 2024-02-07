@@ -49,4 +49,7 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 
 ## Music
 1. Jules Gaia
-2. 
+2. Oh Wonder
+3. Alan Walker
+4. TheFatRat
+5. Aurora
