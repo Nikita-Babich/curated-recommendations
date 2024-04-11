@@ -25,6 +25,7 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 2. Spacechem
 3. Portal 2
 4. Antichamber
+5. Chess
 
 ## Movies
 1. Oppenheimer + Dunkirk + Tenet
