@@ -37,6 +37,8 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 9. Puss in boots: The last wish
 
 ## Series
+1. There is no Antimimetics division
+   (Watch it after reading The Selfish Gene)
 1. Sherlock BBC
 2. Heroes
 3. Attack on Titan
@@ -46,6 +48,7 @@ This file contains with no order recommendations from Nikita Babich (aka Kongo L
 7. Good omens
 8. Stranger Things
 9. The good place
+10. Orville
 
 ## Music
 1. Jules Gaia
